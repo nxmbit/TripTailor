@@ -1,2 +1,5 @@
 /mvnw text eol=lf
 *.cmd text eol=crlf
+
+# Ignore duplicated code in frontend and mobile for GitHub Linguist stats
+mobile/* linguist-vendored
